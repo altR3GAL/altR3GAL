@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="./assets/github-header-image.png"
+    <img src="./github-header-image.png"
 </div>
 
 ## Testing Projects
