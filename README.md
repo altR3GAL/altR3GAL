@@ -11,7 +11,7 @@
             </a>
         </td>
         <td style="padding:15px;">
-            <a href="https://www.linkedin.com/in/wyattowalsh" target="_blank">
+            <a href="https://www.linkedin.com/in/david-xiao-42a875207/" target="_blank">
                 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
             </a>
         </td>
