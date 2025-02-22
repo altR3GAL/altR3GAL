@@ -1,12 +1,12 @@
 <div align='center'>
-    <img src="./github-header-image.png"
+    <img src="./filesandassets/github-header-image.png"
 </div>
 
 
 <table align='center' style="width:90%; margin:auto; border-collapse:separate; border-spacing:10px; text-align:center; font-family:'Arial', sans-serif; background-color:#f9f9f9; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px;">
     <tr>
         <td style="padding:15px;">
-            <a href="./assets/resume.pdf">
+            <a href="./filesandassets/David_Xiao_Resume_2.4.pdf">
                 <img alt="My résumé" src="https://img.shields.io/badge/-R%C3%A9sum%C3%A9-6A9FB5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKmElEQVR4nO2d+28U1xXHV2ortepDqvpD1X+gldKqUtV/oY1aaCW8G36hNKgN3jhReSWx2S3B61akVZqyawo7tgN+YJoWm2cKaWxsg3dsU8CPFL8IUUGxHV7GJFA8GOPHqc5dj6FIBs/6zp7d2e9HOpKFd2avz/34Ps7cxT4fWDSbNm3/UjBcujoYjtYHw7GLwXBsfC4uBkOxurWh6C/WRCJfREqBdoKh6JpgODoSDMfoSZEfig3nh6K/RBcALQSDFV/ID8cqHpGsPxiKbVxbFP3u6lff+jIHf50fjm7KD0UH5l8XipbztegGsCTm5QvFJvNDpb9ZubL+cwu9lr8XDMXWB8PRB2o0DMfKkH6wxGnXli/6o8Ve92K49Me2hLxmRBeAFDccyTUfj3xOr88PRzfYa0JsTIBjkrvd5JrvSdPuQkQikc8Hw9HB5D22r0IXAEfMlVp4+t2YauqCodgrybVgdD/Sn2bMspXPJOKBWjMeuJqIB2ZNI0DpiKeVSZzGi+Edz6Sag4Jw6fd0t8dMUx5Vn3HfGf697cbK7/iyibayvDwz7p9IV7LcFPDlyK6vpJqHXxe++dVsFdD8fxmt1jL/Ml82YO5c8e2E4b/HDT+/73m62biBxhOFZJlFaQndHc4SpZqLdZEdX9PdHitNeeQ+GzuxkfrfWZOU0PDfSVTkfcuX6SQM/9vc4H/Xrk5bstwUkIvMmTQFWwI57fvr8/ZIWOLLdBJx/xA39kbjBk8IyE84Us1Ffij6mhcEHG1cPzcKBpp8mY5pBKa4sXdbC70hYCg6kHIZJhS74AUB7yYK7fXgOV+mYy9cJRLlhoAqQrH1TvPAI6cbbbGE8jq3DuzyZTqeFPC30Qf8eG2xOQiGos/yNRBQAE8KqCL6gB+v8dS60M/O31Mjn0vyBTEC5rKAyVBHrkKxV3iHyzVCjuRud/urDx+9uRcWpuDcFlA6LAgIASGgh0ZA3UiPUG6Hbqxc3wXrRloQCCgMBMQIKAoEhIA5LeD6krj4NOlWrC+Ja88X1oCaKSmtFRfFrSgprdWdLgiom/rjCXFR3IqD/zS15wsjoGau3rhFBVtKxWXRHQVbdtC10Vu60wUB3WD/sVPiwuiO+uMJV3KFEdAFpqdnKFZ5SFwaXVFadVj9TG4AAV2CO6zuWKuauqQFSjUKtuxQI59b8jEQ0GV4TVj/XkLtINdFdolL9bRYF9ml2nrgPVO13W0gIBAFAgJRICAQBQICUSAgEAUCAlEgIBAFAgJRICAQBQICUSAgEAUCAlEgIBAFAgJRICAQBQICUSAgEAUCAlEgIBAFAgJRICAQBQI6RPq4U6aHUyCgQ6Q7ONPDKRAQiAIBgSgQEIgCAYEoEBCIAgGBKBAQiAIBgSgQEIgCAYEoEBCIAgGBKBAQiAIBgSgQEIgCAYEoEBCIAgGBKBAQiAIBgSg5L+BiE4AoEs2BaQQoYfi7fJkON5QDwnjrl8aEgPKdkMthQkD5TsjlMCGgfCfkcpgQUL4TcjnMbBEwYfhnuLHjGZA0RJGWHIwnCpWAphE458t0TMN/jRt7q3kjBPDIL8HYiY22gMd9mY4ZD7zDjb1Y94J44hBFWnIwuP9XSsA2I7DZl+m0GoEfmEZgyjQCs5cPBzEVZ/Evwt1EIX10cK09+t1u2rniG75swDT8LyXigVlueHv5czNdVauoqxqRTTnorFpF7WXPzcnnn0zE85b7solEPPCsaQS67ScjiOzLQYI3lPFAS5ux8oe+bKV598+/ydMy/xCI7MmBGQ98v81Y9XVpfwAAAAAAAAAAAACATwf/A+yghggenwusAAAAAElFTkSuQmCC&logoWidth=25&style=for-the-badge"/>
             </a>
         </td>
@@ -48,7 +48,7 @@
 
 <br>
 
-| ![](./github-metrics.svg) |
+| ![](./filesandassets/github-metrics.svg) |
 | ------------------------- |
 
 
