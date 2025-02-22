@@ -26,6 +26,13 @@
   
 <img alt="Jira" src="https://img.shields.io/badge/jira%20-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" /><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /><img alt="Obsidian" src="https://img.shields.io/badge/obsidian%20-%23483699?style=for-the-badge&logo=obsidian&logoColor=white"/><img alt="Microsoft Office" src="https://img.shields.io/badge/microsoft%20office%20-%23D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/><img alt="Microsoft Excel" src="https://img.shields.io/badge/microsoft%20excel%20-%23217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/><img alt="Google Colab" src="https://img.shields.io/badge/google%20colab%20-%23F9AB00.svg?&style=for-the-badge&logo=Google-Colab&logoColor=white"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img alt="Overleaf" src="https://img.shields.io/badge/overleaf%20-%2347A141.svg?&style=for-the-badge&logo=overleaf&logoColor=white"/>
 
+## My GitHub Stats
+
+<br>
+
+| ![](./github-metrics.svg) |
+| ------------------------- |
+
 
 
 
